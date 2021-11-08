@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
     * {
@@ -20,14 +20,17 @@ const GlobalStyle = createGlobalStyle`
 
         border: 0;
 
-        font-family: 'Prelo', sans-serif !important;
+        font-family: 'Spartan', sans-serif !important;
     }
     a {
         color: inherit;
         text-decoration: none;
+
+        transition: 0.2s;
     }
     a:hover{
-        color: #fd5000 !important;
+        text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+        color: inherit !important;
     }
 
     ::-webkit-scrollbar {
@@ -41,7 +44,7 @@ const GlobalStyle = createGlobalStyle`
         transition: 0.2s;
     }
     ::-webkit-scrollbar-thumb {
-        background: #fd5000;
+        background: #000000;
         border: 0px none #ffffff;
         border-radius: 0px;
         transition: 0.2s;
@@ -67,5 +70,8 @@ const GlobalStyle = createGlobalStyle`
         background: #000000;
     }
 `;
-
 export default GlobalStyle;
+
+export const Body = styled.div`
+    padding: 42px;
+`;

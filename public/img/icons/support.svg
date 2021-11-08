@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="Icon" transform="translate(-4.5 -4.5)" opacity="0.8">
+    <g id="Group">
+      <path id="Vector" d="M25.607,4.393l-5.893,5.893Zm-5.893,15.32,5.893,5.893Zm-9.427-9.427L4.393,4.393Zm0,9.427L4.393,25.607ZM30,15A15,15,0,1,1,25.607,4.393,15,15,0,0,1,30,15Zm-8.333,0a6.667,6.667,0,1,1-1.953-4.714A6.667,6.667,0,0,1,21.667,15Z" transform="translate(5 5)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

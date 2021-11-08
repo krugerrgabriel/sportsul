@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="24.333" viewBox="0 0 31 24.333">
+  <g id="Icon" transform="translate(-4.5 -7.833)" opacity="0.8">
+    <g id="Group">
+      <path id="Vector" d="M6.667,3.333A3.333,3.333,0,1,1,5.69.976a3.333,3.333,0,0,1,.976,2.357Z" transform="translate(8.333 25)" fill="none"/>
+      <path id="Vector-2" data-name="Vector" d="M6.667,3.333A3.333,3.333,0,1,1,5.69.976a3.333,3.333,0,0,1,.976,2.357Z" transform="translate(25 25)" fill="none"/>
+      <path id="Vector-3" data-name="Vector" d="M20,20a3.333,3.333,0,0,1,6.667,0" transform="translate(5 8.333)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-4" data-name="Vector" d="M16.667,18.333V1.667A1.667,1.667,0,0,0,15,0H1.667A1.667,1.667,0,0,0,0,1.667V18.333A1.667,1.667,0,0,0,1.667,20H3.333m13.333-1.667A1.667,1.667,0,0,1,15,20H10m6.667-1.667V5a1.667,1.667,0,0,1,1.667-1.667h4.31a1.667,1.667,0,0,1,1.178.488l5.69,5.69A1.667,1.667,0,0,1,30,10.69v7.643A1.667,1.667,0,0,1,28.333,20H26.667A3.333,3.333,0,1,1,20,20H18.333a1.667,1.667,0,0,1-1.667-1.667ZM3.333,20A3.333,3.333,0,0,0,10,20M3.333,20A3.333,3.333,0,0,1,10,20" transform="translate(5 8.333)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
